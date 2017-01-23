@@ -1,0 +1,1 @@
+A script that uses Ruby and the Sinatra, Watir and Nokogiri gems to both monitor and then purchase items off of [amazon.ca](https://www.amazon.ca) when they drop below a specified threshold.
